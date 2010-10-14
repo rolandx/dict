@@ -1,0 +1,20 @@
+# ignore anywhere in the tree
+*.gz
+*~
+*.swp
+# ignore directory in drupal root directory
+cache
+cacti
+misc/dynamic/*
+languages/*
+progs/*
+cacti/*
+del/*
+*/files/*
+down/
+# ignore direcotires anywhere in the tree
+*/guanlisjk/*
+*/del/*
+*/bak/*
+*/backup/*
+player/
